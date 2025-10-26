@@ -1,5 +1,4 @@
 # wireframing
-
 ## What is Wireframing?
 A wireframe is a low-fidelity, structural blueprint of a digital product, such as a website or a mobile application. Think of it as a blueprint for a house; it shows the structure, layout, and placement of elements, but not the final colors, fonts, or visual design.
 The primary goal of wireframing is to map out *what* goes *where*, focusing on:
@@ -49,7 +48,7 @@ These are more detailed, digital wireframes often built in a design tool. They a
 
 ## Popular Wireframing Tools
 While you can start with a pen and paper, digital tools are necessary for creating high-fidelity wireframes and prototypes. Popular tools include **Balsamiq**, **Sketch**, **Adobe XD**, and **Figma**.
-### ⭐️ Recommended Tool: Figma
+### Recommended Tool: Figma
 **Figma** is a leading cloud-based design tool that is excellent for wireframing, mockups, and prototyping.
 * **Key Features:** It's an all-in-one tool. You can create basic wireframes, turn them into high-fidelity mockups (with color and images), and then add interactions to create a clickable prototype.
 * **Why It's Useful:** Its greatest strength is real-time collaboration. Your entire team—designers, developers, and project managers—can be in the same file at the same time, leaving comments and making edits. This makes it incredibly efficient for iterating on designs.
